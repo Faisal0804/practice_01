@@ -1,0 +1,72 @@
+/* Mobile*/
+@media (max-width: 575.98px) {
+  
+           .logo{width:75px;margin:10px 5px;}
+		   .menu{width:300px;	}
+		   .menu ul li a{font-size:5px;}
+		   
+		   
+		   
+		   .welcome-content h2 {font-size: 20px;}
+					   .welcome-content a {font-size: 15px;}
+					   			   
+					  	 p{font-size:14px;	}			   
+						.section-title p{font-size: 16px;.boundary{	width:450px;}								
+										
+				        .section-title h4 { font-size: 25px;}
+				       . about{ margin-bottom:40px!importand;}         
+						.section-title {	  margin-top: 30px;	}
+						.about-left{float: left;width:380px;	margin-right: 0px;	}		
+						.btn{font-size: 18px;margin-top:5px;}				
+						.about-right{float: left; width: 400px;	margin-top:20px;	}		 
+						.about-right img:first-child{ width: 130px;  left:0;}				
+						.about-right img:last-child{width: 130px;	 top:40px;	left:10%;	}	
+  
+       
+    }
+
+/* Tablets*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+       
+           .logo{width:100px;margin:10px 5px;}
+					  .menu{
+				float: right;
+				width: 300px !importand;
+			}
+					   .menu ul li{
+				display:inline-block;
+			}
+			.menu ul li a{
+			
+			  padding:10px 10px !importand;
+			   font-size:10px;}
+			  .welcome-content h2 {font-size: 25px;}
+			  .welcome-content a {font-size: 20px;}
+			  
+			   p{font-size:16px;	}
+			  
+	
+
+}
+/* Laptops*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	           .logo{width:150px;margin:10px 5px;}
+	          .welcome-content h2 {font-size: 20px;}
+             .welcome-content a {font-size: 20px;}
+			  p{font-size:16px;	}
+    
+    
+}
+/* Large display*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/* More than Large */
+@media (min-width: 1200px) {
+    
+
+
+}
